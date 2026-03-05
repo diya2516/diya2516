@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Diya Thomre 👋
 
-<!--
-**diya2516/diya2516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Graduate in Computer Science and Information Technology  
+💻 Passionate about Software Development and Data Analytics  
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- Django
+- MySQL
+- HTML
+- CSS
+- JavaScript
+- Data Analytics
+- Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Autonomous Commerce Platform (Full Stack eCommerce)
+- Bank Management System (Python + MySQL)
+- Quiz System (Python CLI Project)
+- Indian Railway Data Analysis (Python + Machine Learning)
+
+## Contact
+Email: diyathomre@gmail.com  
+LinkedIn: http://www.linkedin.com/in/diya-thomre-731341295
+Portfolio: https://diya2516.github.io/Diya-portfolio/
