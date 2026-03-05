@@ -23,4 +23,3 @@
 Email: diyathomre@gmail.com  
 LinkedIn: http://www.linkedin.com/in/diya-thomre-731341295
 
-Portfolio: https://diya2516.github.io/Diya-portfolio/
