@@ -1,26 +1,26 @@
 # Hi, I'm Diya Thomre 👋
 
 🎓 B.Tech Graduate in Computer Science and Information Technology  
-💻 Passionate about Software Development and Data Analytics  
+💻 Aspiring Software Developer passionate about building efficient applications and solving real-world problems through clean, reliable code.
 
-## Skills
-- Python
-- Django
-- MySQL
-- HTML
-- CSS
-- JavaScript
-- Data Analytics
-- Machine Learning
+## 🚀 Skills
+- 🐍 Python
+- 🗄️ MySQL
+- 🌐 HTML
+- 🎨 CSS
+- ⚡ JavaScript
+- 📊 Data Analytics
+- 🐼 Pandas
+- 🔢 NumPy
+- 📈 Matplotlib
+- 🌿 Git & GitHub
 
-## Projects
-- Autonomous Commerce Platform (Full Stack eCommerce)
-- Bank Management System (Python + MySQL)
-- Quiz System (Python CLI Project)
-- Indian Railway Data Analysis (Python + Machine Learning)
+## 💼 Projects
+- 🏦 Bank Management System
+- 🧮 Responsive Calculator Web Application
+- 🚆 Indian Railway Data Analysis
 
-## Contact
-Email: diyathomre@gmail.com  
-LinkedIn: http://www.linkedin.com/in/diya-thomre-731341295
-
-Portfolio: https://diya2516.github.io/Diya-portfolio/
+## 📫 Connect with Me
+- 📧 **Email:** diyathomre@gmail.com
+- 💼 **LinkedIn:** http://www.linkedin.com/in/diya-thomre-731341295
+- 🌐 **Portfolio:** https://diya2516.github.io/Diya-portfolio/
